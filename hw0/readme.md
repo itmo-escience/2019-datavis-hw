@@ -19,7 +19,7 @@ Please complete the [course survey located here](https://tinyurl.com/itmo-fall18
 
 ## Task 3 - Introduction
 
-We will use [Slack](https://t.me/joinchat/CeccQVTfUcgfXKPSAJQmBQ) for discussions, to find team members, to arrange appointments, and to ask questions. Slack should be your primary form of communication with the staff and other students.
+We will use [Telegram](https://t.me/joinchat/CeccQVTfUcgfXKPSAJQmBQ) for discussions, to find team members, to arrange appointments, and to ask questions. Slack should be your primary form of communication with the staff and other students.
 
 However, please do not send personal messages to the staff. Instead, use e-mail for personal requests (karsakov@corp.ifmo.ru), e.g., to inform us if you're sick for an exam, etc. If you ask a general question via a personal message or e-mail, we will request that you ask it on Telegram instead. All information such as new homework assignments will be linked from the emails but also announced on Telegram.
 
