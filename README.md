@@ -1,5 +1,4 @@
-# 2019-datavis-hw
-Homeworks for Introduction to Data Visualization Course Spring 2019
+# Homeworks for Introduction to Data Visualization Course Spring 2019
 
 In subfolders in this directory you will find the homeworks for Introduction to Data Visualization course. 
 
